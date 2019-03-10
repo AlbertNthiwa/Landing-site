@@ -1,4 +1,4 @@
-# Landing Website
+# :sparkles: Landing Website :sparkles:
 
 ## Description
  Main site for github profile.
