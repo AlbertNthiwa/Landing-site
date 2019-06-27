@@ -22,7 +22,7 @@
 * albertnthiwa@gmail.com
 
 ## Link to web app
-* https://albertnthiwa.github.io/landing-site/
+* https://albertcodes.github.io/landing-site/
 
 ### License
 *MIT Licence*
